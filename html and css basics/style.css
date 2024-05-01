@@ -1,0 +1,11 @@
+body {
+    background-color: powderblue;
+}
+
+h2 {
+    background-color: steelblue;
+    color: azure;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
